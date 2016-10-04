@@ -1,6 +1,6 @@
 # Copyleft
 
-A serious game to learn free sofware licenses based on [2048 by Gabriele Cirulli](http://gabrielecirulli.github.io/2048).
+A serious game to learn free software licenses based on [2048 by Gabriele Cirulli](http://gabrielecirulli.github.io/2048).
 
 ![Screenshot](https://raw.githubusercontent.com/fgallaire/copyleft/master/img/screenshot.png)
 
