@@ -546,14 +546,14 @@ hr {
 
 @media screen and (max-width: 520px) {
   html, body {
-    font-size: 15px; }
+    font-size: 14px; }
 
   body {
     margin: 20px 0;
     padding: 0 20px; }
 
   h1.title {
-    font-size: 27px;
+    font-size: 20px;
     margin-top: 15px; }
 
   .container {
